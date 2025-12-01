@@ -353,7 +353,7 @@ gcloud run deploy ai-fashion-consultant \
 ## 🎯 Technical Stack
 
 | Category       | Technology                       | Purpose                          |
-|----------------|------------------------|---------|----------------------------------|
+|----------------|----------------------------------|----------------------------------|
 | **LLM**        | Google Gemini (gemini-2.0-flash) | Agent reasoning, text generation |
 | **Vision**     | Gemini Vision (gemini-2.0-flash) | Image analysis, garment tagging  |
 | **Database**   | SQLite / PostgreSQL              | Wardrobe storage, persistence    |
