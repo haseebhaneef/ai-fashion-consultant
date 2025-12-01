@@ -397,8 +397,7 @@ gcloud run deploy ai-fashion-consultant \
 ## 🏆 Capstone Submission Details
 
 **Track:** Concierge Agents 
-**Course:** 5-Day AI Agents Intensive with Google (Nov 10-14, 2025)  
-**Submission Date:** December 1, 2025  
+**Course:** 5-Day AI Agents Intensive with Google
 **Key Innovation:** Multi-agent system combining vision AI + memory for personalized fashion recommendations
 
 ---
