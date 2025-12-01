@@ -321,11 +321,6 @@ pytest tests/ -v
 # Test specific agent
 pytest tests/test_agents.py::TestPlannerAgent -v
 
-# Generate coverage report
-pytest --cov=agents --cov=tools --cov-report=html
-
-# Open coverage report
-open htmlcov/index.html
 ```
 
 ## 🚢 Deployment
