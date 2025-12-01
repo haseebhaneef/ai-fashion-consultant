@@ -170,7 +170,7 @@ Google Gemini API Key (get from https://ai.google.dev/)
 ### Installation
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/ai-fashion-consultant.git
+git clone https://github.com/haseebhaneef/ai-fashion-consultant.git
 cd ai-fashion-consultant
 
 # 2. Create virtual environment
