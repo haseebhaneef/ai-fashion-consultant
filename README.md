@@ -270,6 +270,7 @@ LOG_LEVEL=INFO
 
 Edit `config/settings.py` to adjust:
 - Default gender profile
+- Wardrobe utilization # default : 60%
 - Color matching strictness
 - Outfit generation temperature
 - Memory retention period
