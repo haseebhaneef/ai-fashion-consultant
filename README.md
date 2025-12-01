@@ -181,7 +181,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4. Setup environment variables
-cp .env.example .env
+cp .env.example .env   # On Windows: copy .env.example .env
 # Edit .env and add your GEMINI_API_KEY , WEATHER_API_KEY(OpenWeatherMap)
 
 # 5. Initialize database
