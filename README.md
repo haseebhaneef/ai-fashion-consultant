@@ -5,10 +5,6 @@
 
 AI Fashion Consultant is a **multi-agent personal stylist system** that revolutionizes how people manage their wardrobes and make fashion decisions. Using advanced AI agents, it provides personalized outfit recommendations, smart shopping advice, and learns your style preferences over time.
 
-** Agents Intensive  - Capstone Project  **
-**Track:** Concierge Agents  
-
-
 ### 🔴 The Problem
 
 We stand in front of full closets yet feel we have "nothing to wear." This daily decision fatigue consumes 12–15 minutes every morning, paralyzed by questions like "Does this shirt match these pants?" or "Is this too formal?" Most of us utilize only 20% of what we own because we lack the objective color theory knowledge to coordinate the rest. This disconnection drives a cycle of clutter and financial waste, with 40% of shopping driven by impulse rather than need.
@@ -390,15 +386,6 @@ gcloud run deploy ai-fashion-consultant \
 📧 Email: haseebhaneefa369@gmail.com
 💼 LinkedIn: [linkedin.com/in/haseebhaneef](https://linkedin.com/in/haseebhaneef)  
 🐙 GitHub: [@haseebhaneef](https://github.com/haseebhaneef)  
-
-
----
-
-## 🏆 Capstone Submission Details
-
-**Track:** Concierge Agents 
-**Course:** 5-Day AI Agents Intensive with Google
-**Key Innovation:** Multi-agent system combining vision AI + memory for personalized fashion recommendations
 
 ---
 
